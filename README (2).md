@@ -1,7 +1,5 @@
 # NovaTech Revenue Intelligence: Amazon QuickSight Project
 
-**Author:** <Lisha Bhowmik>
-**Date:** <26-11-2026>
 **Project:** Udacity, Data Preparation, Dashboard Design and AI-Powered Analysis with Amazon QuickSight
 
 ## About
