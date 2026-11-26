@@ -63,4 +63,3 @@ Interactivity: filter controls, a filter action on Sales Pipeline, and a navigat
 ## Process and AI assistance
 
 - QuickSight screenshots, Quick Chat answers and Topic settings come from my own QuickSight session.
-- Analysis, documentation and drafts were prepared with help from Claude, an AI assistant. I reviewed the results and, where I made changes, checked them against my own dashboard and the raw data.
