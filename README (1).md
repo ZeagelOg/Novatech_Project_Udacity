@@ -6,7 +6,6 @@ An audit of an Amazon QuickSight revenue dashboard, followed by a reanalysis of 
 
 ## Credit and scope
 
-- The original dashboard is from [Chiragchhabra1127/revenue-intelligence-dashboard](https://github.com/Chiragchhabra1127/revenue-intelligence-dashboard), reviewed at commit `c891ad4`. This repository does not claim that dashboard.
 - This repository contains the audit and reanalysis: code, SQL, tests, charts and reports.
 - NovaTech Solutions is the company in the project's course scenario. The raw course files are not redistributed (see [`data/README.md`](data/README.md)).
 - Analysis and documentation were prepared with help from Claude, an AI assistant.
