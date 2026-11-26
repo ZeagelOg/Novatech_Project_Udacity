@@ -1,6 +1,5 @@
 **To:** Sarah Chen, VP of Revenue
-**From:** [FILL: your name], BI Analyst
-**Date:** [FILL]
+**From:** Lisha Bhowmik, BI Analyst
 **Subject:** Revenue Intelligence Dashboard: findings, design and AI check
 
 ## Summary
