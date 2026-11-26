@@ -1,7 +1,7 @@
 # NovaTech Revenue Intelligence: Amazon QuickSight Project
 
-**Author:** <your name>
-**Date:** <date>
+**Author:** <Lisha Bhowmik>
+**Date:** <26-11-2026>
 **Project:** Udacity, Data Preparation, Dashboard Design and AI-Powered Analysis with Amazon QuickSight
 
 ## About
@@ -51,9 +51,7 @@ Interactivity: filter controls, a filter action on Sales Pipeline, and a navigat
 - Critical tickets take about as long to resolve as low-priority tickets (median 50.5 h vs 52.9 h).
 - Eight accounts, holding 18.5% of won value, combine high value, high ticket volume and above-median negative sentiment, and merit an account review.
 
-## Supporting analysis
 
-`supporting_analysis/` reanalyses the raw files in Python and SQL. It checks my QuickSight figures and shows how a direct three-way join distorts totals and rankings. It also audits a published QuickSight dashboard from a different project: [Chiragchhabra1127/revenue-intelligence-dashboard](https://github.com/Chiragchhabra1127/revenue-intelligence-dashboard) (commit `c891ad4`). That dashboard is the other author's work and is credited here, not claimed as mine. The raw course data is not redistributed. See `supporting_analysis/README.md` to run it.
 
 ## Limitations
 
